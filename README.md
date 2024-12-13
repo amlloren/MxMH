@@ -31,3 +31,23 @@ Data collection was managed by @catherinerasgaitis via a Google Form. Respondent
 
 Music & Mental Health Survey Results 
 SOURCE: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
+
+
+# ROUGH IDEAS:
+
+1. Instrumentalists vs. Composers: Effects of Music on Mental Well-being
+* Compare the self-reported effects of music (Music effects) between those who said "Yes" in the Instrumentalist and Composer columns.
+* Use proportions of responses like "Improve" and "No effect" to understand the trends.
+
+2. Genres and Mental Health Symptoms
+* Analyze the frequency of listening to different genres (Frequency [Genre] columns).
+* Compare this with the levels of mental health symptoms (Anxiety, Depression, OCD, Insomnia).
+* Use correlation or group averages to identify genres linked to higher or lower levels of symptoms.
+
+3. Age vs. Hours Per Day
+* Group the data by age and calculate the average number of hours spent listening to music daily.
+* Identify which age groups listen to music the most.
+
+4. Improved Mood vs. Hours Per Day
+* Group the data by Hours per day and analyze the proportions of "Improve" in the Music effects column.
+* Visualize trends to determine if increased listening hours are linked to improved mood.

@@ -1,0 +1,726 @@
+Instrumentalist,Composer,Music effects,Hours per day,Anxiety,Depression,Insomnia,OCD
+No,No,No effect,4.0,7.0,7.0,10.0,2.0
+No,Yes,Improve,2.5,9.0,7.0,3.0,3.0
+No,No,Improve,4.0,7.0,2.0,5.0,9.0
+Yes,Yes,Improve,5.0,8.0,8.0,7.0,7.0
+Yes,No,Improve,3.0,4.0,8.0,6.0,0.0
+No,No,Improve,1.0,5.0,3.0,5.0,3.0
+No,No,Improve,6.0,2.0,0.0,0.0,0.0
+No,No,Improve,1.0,2.0,2.0,5.0,1.0
+Yes,No,No effect,3.0,7.0,7.0,4.0,7.0
+No,No,Improve,8.0,1.0,0.0,0.0,1.0
+No,No,Improve,3.0,9.0,3.0,2.0,7.0
+No,No,Improve,2.0,2.0,1.0,2.0,0.0
+Yes,No,Improve,4.0,6.0,4.0,7.0,0.0
+No,No,Worsen,2.0,7.0,5.0,4.0,1.0
+No,No,Improve,8.0,8.0,8.0,4.0,3.0
+No,Yes,Improve,12.0,5.0,7.0,10.0,0.0
+No,No,Improve,24.0,7.0,5.0,0.0,3.0
+No,No,Improve,3.0,7.0,3.0,0.0,2.0
+No,No,Improve,8.0,6.0,9.0,3.0,0.0
+No,No,Improve,4.0,10.0,10.0,2.0,4.0
+No,No,Improve,5.0,6.0,7.0,5.0,4.0
+No,No,No effect,2.0,3.0,3.0,8.0,6.0
+Yes,Yes,Improve,3.0,10.0,6.0,8.0,10.0
+No,No,Improve,2.0,7.0,4.0,2.0,5.0
+Yes,Yes,Improve,12.0,8.0,6.0,10.0,5.0
+Yes,Yes,Improve,6.0,3.0,2.0,1.0,2.0
+Yes,No,Improve,2.0,6.0,6.0,4.0,5.0
+No,No,Improve,1.0,8.0,2.0,1.0,5.0
+Yes,No,Improve,5.0,7.0,7.0,2.0,0.0
+No,No,No effect,2.0,4.0,4.0,4.0,3.0
+Yes,No,Improve,6.0,9.0,8.0,2.0,3.0
+No,No,Improve,4.0,5.0,6.0,6.0,1.0
+No,No,No effect,1.0,0.0,0.0,0.0,0.0
+Yes,No,Improve,5.0,3.0,2.0,1.0,1.0
+No,No,Improve,4.0,6.0,8.0,0.0,2.0
+No,No,No effect,3.0,2.0,0.0,4.0,0.0
+No,No,No effect,0.5,9.0,8.0,1.0,0.0
+No,No,Improve,4.0,7.0,2.0,8.0,6.0
+Yes,Yes,Improve,2.0,4.0,2.0,3.0,4.0
+Yes,No,Improve,5.0,7.0,6.0,5.0,0.0
+No,No,No effect,0.25,3.0,2.0,10.0,0.0
+No,No,Improve,3.0,6.0,6.0,8.0,2.0
+No,No,No effect,4.0,1.0,0.0,8.0,2.0
+Yes,Yes,Improve,1.0,7.0,3.0,1.0,5.0
+Yes,Yes,No effect,1.0,8.0,9.0,3.0,0.0
+No,No,Improve,3.0,9.0,6.0,4.0,3.0
+No,Yes,Improve,5.0,7.0,9.0,5.0,0.0
+No,No,No effect,3.0,7.0,4.0,2.0,4.0
+Yes,No,Improve,2.0,0.0,0.0,0.0,0.0
+No,No,Improve,6.0,7.0,8.0,7.0,5.0
+No,No,No effect,1.0,10.0,6.0,3.0,10.0
+No,No,No effect,12.0,3.0,7.0,5.0,5.0
+No,Yes,Improve,4.0,8.0,7.0,4.0,3.0
+Yes,No,Improve,2.0,0.0,0.0,1.0,3.0
+No,No,No effect,6.0,8.0,6.0,2.0,10.0
+No,No,No effect,0.0,9.0,0.0,10.0,0.0
+No,No,Improve,7.0,6.0,4.0,2.0,3.0
+Yes,No,Improve,1.0,7.0,0.0,0.0,2.0
+Yes,No,Improve,1.0,10.0,1.0,0.0,0.0
+Yes,No,Improve,1.0,8.0,7.0,0.0,5.0
+Yes,No,Improve,2.0,3.0,2.0,6.0,7.0
+No,No,No effect,2.0,5.0,5.0,3.0,1.0
+No,No,Worsen,5.0,10.0,10.0,3.0,1.0
+No,No,Improve,6.0,5.0,4.0,10.0,2.0
+No,No,No effect,3.0,0.0,0.0,8.0,0.0
+No,No,Improve,4.0,8.0,8.0,5.0,10.0
+Yes,Yes,Improve,3.0,10.0,7.0,8.0,0.0
+Yes,Yes,Improve,2.0,7.0,3.0,1.0,1.0
+No,No,Improve,3.0,8.0,7.0,4.0,0.0
+No,No,No effect,2.0,10.0,2.0,0.0,5.0
+No,No,Improve,4.0,9.0,8.0,1.0,2.0
+Yes,Yes,Improve,2.0,6.0,3.0,1.0,1.0
+No,No,No effect,0.5,7.0,7.0,0.0,1.0
+Yes,Yes,Improve,5.0,7.0,7.0,8.0,4.0
+No,No,Improve,5.0,4.0,1.0,0.0,0.0
+No,No,Improve,10.0,7.0,2.0,1.0,5.0
+No,No,Improve,2.0,9.0,0.0,5.0,10.0
+No,No,Improve,4.0,2.0,7.0,1.0,1.0
+Yes,Yes,Improve,5.0,10.0,8.0,7.0,0.0
+No,No,Improve,3.0,3.0,0.0,0.0,0.0
+No,No,No effect,2.0,7.0,8.0,5.0,1.0
+Yes,Yes,Improve,2.5,2.0,1.0,0.0,0.0
+No,No,Improve,3.0,5.0,4.0,0.0,1.0
+No,No,No effect,1.0,9.0,10.0,6.0,10.0
+Yes,No,Improve,7.0,2.0,0.0,0.0,0.0
+No,No,Improve,1.0,5.0,2.0,5.0,1.0
+No,No,No effect,1.0,3.0,2.0,0.0,0.0
+No,No,No effect,3.0,2.0,0.0,7.0,0.0
+Yes,No,No effect,5.0,7.0,6.0,6.0,2.0
+Yes,Yes,No effect,6.0,5.0,4.0,8.0,3.0
+No,No,Improve,4.0,4.0,6.0,5.0,3.0
+No,No,Improve,1.0,6.0,2.0,3.0,1.0
+No,No,Improve,4.0,8.0,2.0,1.0,6.0
+No,No,Improve,10.0,9.0,6.0,0.0,6.0
+No,Yes,Improve,3.0,0.0,3.0,7.0,0.0
+No,No,Improve,2.0,8.0,9.0,6.0,2.0
+No,No,Improve,4.0,4.0,1.0,1.0,1.0
+No,No,Improve,8.0,8.0,7.0,5.0,0.0
+Yes,Yes,Improve,2.0,3.0,4.0,6.0,1.0
+Yes,No,Improve,0.5,1.0,1.0,3.0,1.0
+No,No,No effect,5.0,10.0,8.0,6.0,7.0
+No,No,No effect,1.0,6.0,6.0,2.0,0.0
+No,No,Improve,3.0,6.0,7.0,0.0,0.0
+Yes,No,No effect,2.0,8.0,4.0,10.0,0.0
+No,No,No effect,3.0,9.0,7.0,6.0,2.0
+Yes,No,Improve,2.0,7.0,4.0,6.0,5.0
+No,No,No effect,4.0,6.0,7.0,0.0,0.0
+No,Yes,Improve,3.0,10.0,0.0,10.0,10.0
+No,No,Improve,2.0,6.0,3.0,0.0,1.0
+No,No,Improve,3.0,7.0,5.0,5.0,3.0
+No,No,Improve,4.0,7.0,10.0,5.0,0.0
+Yes,No,Improve,2.0,8.0,6.0,0.0,0.0
+No,No,Improve,8.0,4.0,3.0,0.0,0.0
+No,No,Improve,4.0,7.0,6.0,7.0,5.0
+Yes,No,Improve,2.0,7.0,3.0,2.0,3.0
+No,Yes,Improve,1.0,2.0,7.0,5.0,0.0
+No,No,Improve,3.0,7.0,8.0,6.0,5.0
+No,No,Improve,0.5,4.0,7.0,1.0,0.0
+No,No,No effect,2.0,7.0,8.0,5.0,1.0
+No,No,Improve,3.0,5.0,2.0,8.0,6.0
+Yes,Yes,Improve,2.0,10.0,7.0,4.0,2.0
+No,No,No effect,1.0,6.0,5.0,0.0,0.0
+No,No,Improve,5.0,7.0,2.0,3.0,1.0
+Yes,Yes,Improve,10.0,4.0,7.0,7.0,3.0
+Yes,Yes,Improve,4.0,4.0,5.0,6.0,5.0
+Yes,Yes,Worsen,2.0,7.0,10.0,5.0,6.0
+No,No,Improve,1.0,6.0,4.0,5.0,0.0
+No,No,No effect,6.0,4.0,1.0,3.0,1.0
+Yes,No,Improve,1.0,6.0,6.0,1.0,2.0
+No,No,Improve,6.0,10.0,8.0,7.0,1.0
+No,No,Improve,7.0,10.0,8.0,2.0,8.0
+No,No,No effect,1.0,3.0,6.0,2.0,0.0
+Yes,No,Improve,3.0,8.0,9.0,2.0,0.0
+Yes,No,Improve,2.0,8.0,3.0,8.0,7.0
+Yes,No,Improve,3.0,3.0,3.0,1.0,2.0
+Yes,No,Improve,2.0,6.0,5.0,2.0,0.0
+No,Yes,No effect,3.0,0.0,0.0,4.0,0.0
+No,No,Improve,1.5,6.0,5.0,0.0,2.0
+No,No,Improve,4.0,3.0,8.0,0.0,0.0
+No,No,No effect,2.0,1.0,8.0,0.0,0.0
+No,No,Improve,10.0,5.0,6.0,6.0,3.0
+No,No,Improve,7.0,0.0,0.0,0.0,0.0
+No,No,Improve,1.0,0.0,8.0,0.0,0.0
+No,No,Improve,2.0,3.0,7.0,0.0,0.0
+Yes,Yes,Improve,6.0,8.0,8.0,8.0,5.0
+Yes,Yes,Improve,2.0,5.0,2.0,3.0,4.0
+Yes,No,Improve,3.0,8.0,8.0,3.0,0.0
+No,No,Improve,8.0,6.0,8.0,8.0,0.0
+No,No,Worsen,3.0,6.0,8.0,6.0,0.0
+Yes,Yes,Improve,3.0,6.0,6.0,7.0,5.0
+No,No,No effect,3.0,9.0,10.0,3.0,0.0
+Yes,No,Improve,2.0,7.0,7.0,5.0,0.0
+No,No,No effect,1.0,10.0,7.0,2.0,8.0
+Yes,No,No effect,2.0,1.0,3.0,0.0,6.0
+Yes,No,Improve,2.0,5.0,3.0,2.0,1.0
+No,No,Improve,4.0,6.0,8.0,1.0,6.0
+No,No,Improve,4.0,7.0,2.0,0.0,7.0
+Yes,No,Improve,1.0,6.0,9.0,9.0,0.0
+No,No,No effect,2.0,1.0,1.0,4.0,1.0
+No,No,Improve,1.0,8.0,8.0,2.0,0.0
+Yes,Yes,No effect,3.0,3.0,3.0,7.0,0.0
+No,No,Improve,10.0,8.0,8.0,3.0,0.0
+No,Yes,No effect,1.0,6.0,4.0,0.0,3.0
+No,No,Improve,3.0,1.0,0.0,0.0,0.0
+No,No,Improve,1.5,5.0,5.0,4.0,4.0
+Yes,No,Improve,2.5,8.0,8.0,7.0,6.0
+No,No,Improve,2.0,3.0,0.0,2.0,0.0
+No,No,No effect,5.0,0.0,5.0,1.0,0.0
+No,No,Improve,2.0,6.0,3.0,0.0,0.0
+No,Yes,Improve,2.0,1.0,7.0,5.0,1.0
+Yes,Yes,No effect,2.0,4.0,2.0,1.0,1.0
+No,No,No effect,2.0,5.0,6.0,0.0,1.0
+No,No,No effect,1.0,1.0,0.0,0.0,0.0
+No,No,Improve,1.5,8.0,6.0,5.0,2.0
+Yes,Yes,Improve,5.0,9.0,4.0,0.0,3.0
+No,No,Improve,0.5,4.0,6.0,6.0,4.0
+No,No,Improve,2.0,7.0,3.0,1.0,5.0
+No,No,No effect,0.5,10.0,3.0,1.0,0.0
+No,No,Improve,2.0,8.0,8.0,3.0,0.0
+No,No,Improve,2.5,7.0,6.0,5.0,4.0
+Yes,No,Improve,2.0,7.0,2.0,3.0,5.0
+No,No,Improve,2.0,10.0,3.5,5.0,10.0
+No,No,Improve,1.0,7.0,5.0,1.0,2.0
+Yes,No,Improve,4.0,6.0,8.0,9.0,5.0
+No,No,No effect,5.0,2.0,9.0,2.0,1.0
+Yes,Yes,Improve,2.0,7.0,4.0,10.0,2.0
+Yes,No,Improve,2.0,7.0,5.0,6.0,0.0
+No,No,Improve,2.0,6.0,1.0,0.0,0.0
+Yes,No,Improve,1.0,3.0,6.0,1.0,1.0
+No,No,Improve,4.0,9.0,10.0,3.0,0.0
+Yes,No,Improve,1.0,8.0,5.0,8.0,9.0
+No,No,Improve,4.0,8.0,7.0,7.0,3.0
+No,No,No effect,5.0,9.0,9.0,9.0,3.0
+No,No,Improve,5.0,9.0,8.0,9.0,7.0
+No,No,Improve,7.0,9.0,3.0,7.0,8.0
+No,No,Improve,2.0,10.0,8.0,6.0,2.0
+No,No,Improve,3.0,9.0,6.0,3.0,0.0
+No,No,Improve,2.0,7.0,7.0,8.0,3.0
+No,Yes,Improve,3.0,9.0,10.0,4.0,0.0
+No,No,Improve,3.0,9.0,9.0,8.0,2.0
+No,No,Improve,3.0,9.0,10.0,3.0,9.0
+Yes,Yes,Improve,5.0,10.0,9.0,8.0,8.0
+No,Yes,Improve,6.0,6.0,5.0,6.0,8.0
+No,No,Improve,2.0,8.0,6.0,10.0,3.0
+No,No,Improve,2.0,8.0,3.0,6.0,4.0
+Yes,No,Improve,1.0,4.0,2.0,1.0,3.0
+No,No,No effect,1.0,2.0,1.0,1.0,1.0
+No,No,Improve,3.0,10.0,10.0,7.0,3.0
+No,No,Improve,3.0,8.0,9.0,0.0,0.0
+No,No,No effect,1.0,4.0,9.0,6.0,2.0
+No,No,Improve,6.0,4.0,2.0,0.0,0.0
+No,No,Improve,4.0,9.0,2.0,7.0,7.0
+No,No,Improve,2.0,8.0,6.0,7.0,5.0
+Yes,No,Improve,2.0,6.0,5.0,4.0,2.0
+No,No,Improve,3.0,8.0,5.0,2.0,3.0
+Yes,Yes,No effect,8.0,7.0,6.0,6.0,1.0
+Yes,No,Improve,3.0,10.0,2.0,0.0,0.0
+No,No,Improve,2.0,6.0,0.0,0.0,0.0
+No,No,Improve,7.0,2.0,0.0,1.0,0.0
+No,No,Improve,9.0,9.0,0.0,2.0,0.0
+No,No,Improve,2.0,5.0,4.0,1.0,1.0
+No,No,Improve,1.0,8.0,4.0,0.0,1.0
+No,No,Improve,1.0,8.0,10.0,2.0,0.0
+No,No,No effect,2.0,3.0,6.0,2.0,1.0
+No,No,Improve,4.0,4.0,4.0,2.0,1.0
+Yes,No,Improve,2.0,7.0,5.0,2.0,6.0
+No,No,No effect,6.0,3.0,2.0,0.0,0.0
+Yes,Yes,Improve,4.0,9.0,9.0,5.0,1.0
+No,No,No effect,1.0,3.0,10.0,4.0,1.0
+No,No,No effect,6.0,9.0,0.0,5.0,0.0
+Yes,No,Improve,2.0,7.0,6.0,6.0,5.0
+No,Yes,Improve,5.0,0.0,9.0,4.0,0.0
+No,No,No effect,1.5,2.0,2.0,2.0,1.0
+Yes,Yes,Improve,5.0,6.0,9.0,2.0,1.0
+No,Yes,Improve,2.0,6.0,4.0,1.0,0.0
+Yes,No,Improve,4.0,8.0,9.0,4.0,0.0
+Yes,Yes,Improve,2.0,6.0,7.0,4.0,3.0
+Yes,Yes,Improve,5.0,7.0,2.0,2.0,0.0
+No,No,No effect,6.0,8.0,6.0,5.0,6.0
+No,No,Worsen,1.0,3.0,10.0,0.0,0.0
+Yes,No,Improve,6.0,9.0,4.0,9.0,7.0
+Yes,No,Worsen,4.0,7.0,9.0,2.0,8.0
+No,No,Improve,2.0,10.0,3.0,1.0,4.0
+Yes,Yes,No effect,2.0,0.0,0.0,0.0,1.0
+No,No,No effect,2.0,9.0,6.0,1.0,7.0
+No,Yes,Improve,4.0,7.0,1.0,3.0,5.0
+Yes,No,Improve,2.0,9.0,7.0,5.0,7.0
+No,No,Improve,6.0,3.0,1.0,2.0,7.0
+No,No,Improve,3.0,6.0,6.0,8.0,0.0
+No,No,Improve,5.0,10.0,6.0,0.0,4.0
+Yes,No,Improve,0.5,6.0,3.0,1.0,1.0
+No,No,No effect,1.0,3.0,3.0,0.0,7.0
+No,No,No effect,10.0,9.0,10.0,2.0,2.0
+No,No,No effect,2.0,7.0,5.0,0.0,2.0
+No,No,No effect,0.5,3.0,0.0,4.0,4.0
+No,No,Improve,1.0,9.0,9.0,6.0,4.0
+Yes,No,Improve,2.0,5.0,7.0,7.0,2.0
+No,No,Improve,3.0,0.0,8.0,0.0,5.0
+No,No,Improve,3.0,8.0,4.0,3.0,4.0
+No,No,No effect,2.0,7.0,2.0,0.0,7.0
+No,No,No effect,1.0,9.0,9.0,6.0,9.0
+Yes,No,Improve,8.0,5.0,7.0,5.0,4.0
+Yes,No,Improve,1.0,5.0,1.0,0.0,0.0
+No,Yes,Improve,1.0,4.0,1.0,3.0,0.0
+No,No,Improve,1.0,3.0,5.0,3.0,0.0
+Yes,No,Improve,5.0,2.0,2.0,0.0,6.0
+No,No,Improve,5.0,0.0,1.0,3.0,5.0
+No,No,Improve,4.0,7.0,8.0,6.0,2.0
+No,Yes,Improve,8.0,6.0,4.0,8.0,8.0
+No,No,Improve,0.7,5.0,6.0,8.0,2.0
+No,No,No effect,3.0,6.0,6.0,2.0,6.0
+No,No,Improve,7.0,8.0,9.0,3.0,4.0
+Yes,Yes,Worsen,1.5,8.0,4.0,3.0,3.0
+Yes,Yes,Improve,4.0,8.0,6.0,5.0,7.0
+No,No,Improve,4.0,8.0,8.0,7.0,7.0
+No,Yes,Improve,10.0,5.0,2.0,5.0,0.0
+Yes,Yes,No effect,2.0,6.0,8.0,4.0,2.0
+No,No,No effect,2.0,7.0,5.0,2.0,1.0
+No,No,Improve,6.0,8.0,8.0,7.0,1.0
+Yes,No,Improve,0.5,10.0,2.0,0.0,0.0
+Yes,Yes,Improve,2.0,8.0,7.0,7.0,5.0
+No,No,Improve,5.0,8.0,8.0,8.0,6.0
+Yes,Yes,Improve,3.0,8.0,10.0,9.0,2.0
+No,No,No effect,4.5,6.0,1.0,8.0,4.0
+No,No,Improve,3.0,0.0,4.0,4.0,0.0
+No,No,No effect,20.0,8.0,10.0,10.0,8.0
+No,No,No effect,1.0,3.0,2.0,0.0,1.0
+Yes,Yes,Improve,2.5,5.0,3.0,3.0,1.0
+No,No,Improve,1.0,8.0,9.0,6.0,1.0
+Yes,No,No effect,2.0,10.0,3.0,0.0,10.0
+Yes,No,Improve,5.0,6.0,7.0,8.0,2.0
+Yes,No,Improve,3.0,7.0,4.0,7.0,0.0
+Yes,No,Improve,3.0,9.0,8.0,6.0,2.0
+No,No,Improve,0.5,8.0,0.0,0.0,0.0
+Yes,Yes,No effect,8.0,8.0,9.0,2.0,5.0
+No,No,Improve,2.0,7.0,2.0,3.0,0.0
+Yes,Yes,Improve,3.0,10.0,10.0,4.0,0.0
+No,No,Improve,3.0,8.0,8.0,3.0,3.0
+Yes,No,Improve,5.0,8.0,7.0,7.0,4.0
+No,Yes,Improve,1.5,8.0,7.0,1.0,2.0
+No,No,No effect,1.0,6.0,5.0,10.0,2.0
+Yes,No,Improve,2.0,7.0,6.0,0.0,4.0
+No,No,Improve,1.0,7.0,4.0,0.0,0.0
+No,No,No effect,4.0,8.0,7.0,2.0,10.0
+No,No,Improve,1.0,4.0,4.0,4.0,0.0
+No,No,No effect,2.0,0.0,0.0,2.0,0.0
+Yes,Yes,Improve,2.0,6.0,4.0,0.0,1.0
+No,No,Improve,2.0,4.0,7.0,0.0,0.0
+No,No,No effect,1.0,8.0,4.0,3.0,0.0
+No,No,Improve,6.0,5.0,5.0,3.0,3.0
+No,No,Improve,2.0,0.0,8.0,0.0,0.0
+Yes,No,Improve,4.0,7.0,4.0,6.0,1.0
+No,No,No effect,1.5,8.0,7.0,7.0,3.0
+No,No,Improve,3.0,9.0,8.0,6.0,2.0
+No,Yes,Improve,4.0,8.0,6.0,4.0,0.0
+No,No,Improve,10.0,7.0,2.0,0.0,8.0
+No,No,No effect,3.0,6.0,7.0,7.0,7.0
+No,No,Improve,3.0,7.0,6.0,4.0,2.0
+No,No,Improve,3.0,1.0,1.0,1.0,0.0
+No,No,Improve,2.0,1.0,1.0,3.0,0.0
+Yes,Yes,Improve,2.0,2.0,7.0,1.0,2.0
+No,No,No effect,3.0,6.0,2.0,3.0,1.0
+No,No,No effect,2.0,7.0,7.0,3.0,2.0
+Yes,No,No effect,5.0,8.0,7.0,0.0,3.0
+No,No,Improve,6.0,8.0,3.0,5.0,2.0
+Yes,Yes,Improve,3.0,5.0,4.0,2.0,0.0
+No,No,Improve,5.0,7.0,10.0,10.0,1.0
+No,No,Improve,5.0,7.0,6.0,8.0,4.0
+No,No,Improve,6.0,8.0,7.0,0.0,9.0
+No,No,No effect,6.0,10.0,7.0,3.0,3.0
+No,No,Improve,3.0,6.0,5.0,5.0,3.0
+No,No,No effect,10.0,8.0,7.0,6.0,8.0
+No,No,Worsen,2.0,10.0,7.0,7.0,3.0
+Yes,No,No effect,3.0,8.0,2.0,2.0,8.0
+No,No,Improve,1.5,3.0,7.0,4.0,0.0
+No,No,Improve,10.0,9.0,7.0,5.0,5.0
+No,No,Improve,2.0,5.0,3.0,0.0,0.0
+Yes,Yes,Improve,3.0,10.0,7.0,0.0,10.0
+No,No,Improve,2.5,8.0,0.0,0.0,3.0
+No,No,Improve,3.0,6.0,0.0,3.0,0.0
+Yes,No,Improve,0.5,7.0,9.0,4.0,6.0
+No,Yes,Improve,16.0,3.0,2.0,5.0,6.0
+Yes,No,Improve,6.0,4.0,2.0,0.0,0.0
+No,No,Improve,3.0,4.0,2.0,0.0,0.0
+No,No,No effect,0.5,5.0,3.0,1.0,0.0
+No,No,Improve,5.0,4.0,2.0,2.0,1.0
+Yes,No,No effect,2.0,4.0,0.0,6.0,5.0
+No,No,Improve,2.0,7.0,6.0,3.0,1.0
+No,No,Improve,2.0,7.0,8.0,6.0,2.0
+No,No,Improve,1.5,3.0,4.0,1.0,1.0
+Yes,No,Improve,1.0,9.0,7.0,2.0,1.0
+Yes,No,Improve,10.0,10.0,9.0,3.0,2.0
+No,No,Improve,2.0,9.0,9.0,7.0,3.0
+Yes,Yes,Improve,15.0,8.0,10.0,9.0,2.0
+No,No,Improve,0.5,8.0,9.0,6.0,4.0
+No,No,Improve,3.0,5.0,6.0,9.0,9.0
+No,No,Improve,2.0,9.0,3.0,7.0,2.0
+No,No,Improve,4.0,3.0,2.0,1.0,6.0
+No,No,Improve,2.0,7.0,7.0,4.0,0.0
+No,No,Improve,1.0,7.0,9.0,1.0,2.0
+No,No,Improve,24.0,5.0,1.0,9.0,1.0
+No,No,Improve,1.0,3.0,3.0,0.0,0.0
+Yes,No,Improve,2.0,8.0,7.0,5.0,4.0
+Yes,No,Improve,2.0,8.0,2.0,1.0,1.0
+No,No,Improve,3.0,4.0,0.0,0.0,0.0
+Yes,No,Improve,3.0,9.0,6.0,1.0,1.0
+No,No,Improve,2.0,10.0,7.0,2.0,0.0
+No,No,Improve,7.0,8.0,7.0,7.0,4.0
+No,No,Improve,6.0,1.0,0.0,0.0,0.0
+No,No,Improve,3.0,5.0,7.0,1.0,4.0
+No,Yes,Improve,5.0,7.0,6.0,9.0,2.0
+Yes,Yes,Improve,4.0,8.0,8.0,2.0,2.0
+Yes,No,No effect,3.0,2.0,2.0,8.0,0.0
+Yes,No,Improve,2.0,6.0,0.0,0.0,2.0
+No,No,Improve,3.0,2.0,0.0,1.0,0.0
+No,No,No effect,2.0,6.0,2.0,6.0,7.0
+No,No,Improve,2.0,6.0,1.0,0.0,5.0
+Yes,No,Improve,3.0,7.0,6.0,4.0,0.0
+Yes,Yes,Improve,2.0,0.0,0.0,3.0,0.0
+Yes,Yes,No effect,3.0,9.0,7.0,10.0,6.0
+No,No,No effect,0.0,10.0,0.0,0.0,0.0
+Yes,No,Improve,1.0,6.0,6.0,3.0,0.0
+No,No,Improve,2.0,4.0,3.0,1.0,6.0
+Yes,No,No effect,2.0,6.0,2.0,2.0,1.0
+No,No,Improve,6.0,2.0,2.0,3.0,2.0
+No,No,Improve,5.0,7.0,4.0,5.0,6.0
+Yes,No,Improve,2.0,7.0,5.0,3.0,2.0
+Yes,Yes,Improve,4.0,8.0,5.0,10.0,3.0
+No,Yes,Improve,8.0,7.0,5.0,6.0,5.0
+Yes,No,Improve,4.0,6.0,8.0,8.0,2.0
+Yes,No,Improve,1.5,1.0,2.0,4.0,3.0
+Yes,No,Improve,2.0,3.0,2.0,0.0,2.0
+No,No,Improve,5.0,6.0,7.0,7.0,4.0
+Yes,No,No effect,6.0,6.0,7.0,2.0,0.0
+No,No,Improve,2.0,9.0,8.0,4.0,8.0
+No,No,Improve,2.0,7.0,7.0,2.0,1.0
+Yes,No,Improve,1.0,1.0,0.0,1.0,0.0
+No,No,Improve,1.0,4.0,3.0,4.0,5.0
+No,No,Improve,2.0,2.0,0.0,0.0,0.0
+Yes,No,No effect,2.0,0.0,5.0,7.0,0.0
+Yes,No,Improve,1.0,8.0,7.0,7.0,0.0
+No,No,No effect,14.0,5.0,10.0,8.0,0.0
+Yes,Yes,Improve,3.0,9.0,6.0,8.0,5.0
+Yes,Yes,No effect,2.0,2.0,2.0,7.0,0.0
+Yes,Yes,Improve,0.5,7.0,8.0,6.0,2.0
+No,No,No effect,6.0,10.0,10.0,8.0,2.0
+Yes,No,Improve,1.0,8.0,5.0,2.0,3.0
+Yes,No,Improve,2.0,7.0,8.0,2.0,5.0
+Yes,Yes,Improve,4.0,1.0,1.0,2.0,0.0
+Yes,Yes,No effect,3.0,9.0,10.0,10.0,3.0
+Yes,Yes,Improve,12.0,9.0,4.0,4.0,4.0
+Yes,No,No effect,3.0,8.0,2.0,4.0,0.0
+No,No,Improve,1.0,1.0,1.0,5.0,1.0
+No,No,Improve,10.0,10.0,9.0,9.0,8.0
+Yes,No,Improve,5.0,3.0,0.0,2.0,3.0
+Yes,No,Improve,0.5,4.0,0.0,4.0,0.0
+Yes,Yes,Improve,5.0,2.0,3.0,5.0,2.0
+Yes,Yes,Improve,3.0,2.0,3.0,3.0,0.0
+No,No,Improve,2.0,8.0,4.0,3.0,0.0
+No,No,Improve,13.0,10.0,10.0,10.0,7.0
+Yes,No,Improve,4.0,8.0,8.0,9.0,3.0
+Yes,Yes,Improve,6.0,0.0,1.0,0.0,2.0
+No,No,Improve,3.0,5.0,4.0,0.0,1.0
+No,No,Improve,4.0,7.5,5.0,7.0,8.5
+Yes,No,Improve,3.0,3.0,3.0,0.0,0.0
+Yes,No,Improve,2.0,7.0,5.0,3.0,1.0
+Yes,Yes,Improve,2.0,8.0,0.0,1.0,6.0
+No,No,Improve,1.0,6.0,4.0,1.0,1.0
+Yes,No,No effect,6.0,8.0,8.0,7.0,10.0
+No,No,Improve,9.0,10.0,8.0,9.0,5.0
+No,No,Improve,1.0,3.0,0.0,2.0,0.0
+No,No,Worsen,1.0,5.0,5.0,7.0,1.0
+No,Yes,Improve,0.5,7.0,7.0,6.0,5.0
+No,No,Improve,1.0,7.0,4.0,6.0,3.0
+No,No,Worsen,6.0,4.0,0.0,0.0,2.0
+No,No,Improve,4.0,3.0,0.0,6.0,9.0
+No,Yes,Improve,6.0,5.0,1.0,6.0,0.0
+No,No,Improve,4.0,10.0,6.0,8.0,0.0
+No,No,No effect,1.5,7.0,5.0,1.0,2.0
+No,No,No effect,2.0,7.0,7.0,0.0,4.0
+No,No,Improve,2.0,6.0,0.0,0.0,0.0
+No,No,Improve,4.0,6.0,2.0,3.0,2.0
+No,No,Improve,3.0,7.0,6.0,7.0,9.0
+No,No,No effect,4.0,5.0,7.0,7.0,0.0
+No,No,Improve,2.0,7.0,6.0,4.0,3.0
+No,No,Improve,2.0,2.0,2.0,2.0,0.0
+No,No,Improve,6.0,9.0,5.0,0.0,7.0
+Yes,No,Worsen,0.0,3.0,7.0,8.0,0.0
+No,No,Improve,1.0,4.0,5.0,9.0,1.0
+Yes,No,Improve,4.0,1.0,0.0,7.0,0.0
+Yes,Yes,No effect,2.0,3.0,2.0,0.0,2.0
+No,No,Improve,3.0,1.0,6.0,1.0,2.0
+No,No,No effect,4.0,8.0,10.0,4.0,0.0
+No,No,No effect,2.0,8.0,10.0,10.0,0.0
+No,No,No effect,3.0,3.0,0.0,8.0,1.0
+No,No,Improve,1.0,3.0,4.0,1.0,0.0
+No,No,Improve,10.0,2.0,1.0,2.0,2.0
+No,No,No effect,10.0,0.0,0.0,0.0,0.0
+No,No,Improve,10.0,8.0,8.0,5.0,0.0
+No,No,No effect,4.0,1.0,1.0,1.0,0.0
+No,No,Improve,4.0,8.0,7.0,6.0,2.0
+No,No,No effect,3.0,6.0,5.0,4.0,0.0
+No,No,Improve,2.0,5.0,4.0,6.0,2.0
+Yes,No,No effect,1.0,3.0,1.0,0.0,2.0
+Yes,No,Improve,6.0,4.0,8.0,2.0,2.0
+No,No,Improve,1.0,5.0,6.0,3.0,1.0
+Yes,Yes,Improve,1.0,0.0,0.0,2.0,1.0
+No,No,Improve,4.0,7.0,6.0,7.0,4.0
+No,No,Improve,2.0,8.0,5.0,6.0,1.0
+No,No,Improve,2.0,4.0,4.0,2.0,0.0
+Yes,Yes,Improve,2.0,9.0,8.0,10.0,9.0
+No,No,Improve,6.0,5.0,5.0,7.0,0.0
+No,No,Improve,3.0,4.0,6.0,8.0,1.0
+No,No,Improve,1.0,4.0,8.0,5.0,0.0
+Yes,No,Improve,4.0,9.0,10.0,6.0,7.0
+No,No,Improve,0.5,3.0,2.0,2.0,2.0
+No,No,Improve,8.0,6.0,2.0,2.0,1.0
+No,No,No effect,15.0,2.0,0.0,3.0,0.0
+Yes,No,Improve,1.5,10.0,8.0,0.0,4.0
+Yes,No,Improve,2.0,4.0,4.0,2.0,2.0
+Yes,No,Improve,3.0,7.0,8.0,6.0,2.0
+No,No,Improve,1.0,7.0,6.0,5.0,5.0
+No,No,Improve,0.25,1.0,0.0,0.0,0.0
+Yes,Yes,Improve,1.0,6.0,2.0,8.0,0.0
+No,Yes,No effect,1.0,4.0,5.0,7.0,0.0
+No,No,Improve,5.0,10.0,7.0,0.0,0.0
+No,No,Improve,1.0,4.0,2.0,1.0,0.0
+No,No,Improve,1.0,7.0,6.0,2.0,3.0
+No,No,Improve,7.0,3.0,2.0,8.0,0.0
+Yes,Yes,Improve,3.0,10.0,7.0,4.0,3.0
+No,No,No effect,3.0,4.0,0.0,0.0,0.0
+No,No,Improve,7.0,7.0,7.0,0.0,0.0
+No,No,Improve,8.0,6.0,7.0,4.0,1.0
+No,No,Improve,2.0,7.0,6.0,2.0,7.0
+No,No,Improve,2.0,6.0,5.0,8.0,0.0
+No,No,Improve,2.0,10.0,10.0,2.0,3.0
+No,No,Improve,2.0,7.0,6.0,5.0,1.0
+No,No,Improve,4.0,3.0,0.0,0.0,0.0
+No,No,No effect,8.0,8.0,2.0,1.0,0.0
+No,No,Improve,4.0,7.0,6.0,6.0,5.0
+No,No,No effect,1.0,3.0,2.0,5.0,0.0
+No,No,Improve,5.0,8.0,2.0,1.0,0.0
+No,No,Improve,2.0,7.0,7.0,2.0,4.0
+No,No,Improve,1.0,5.0,1.0,1.0,1.0
+No,No,No effect,5.0,1.0,2.0,1.0,0.0
+No,No,Improve,8.0,2.0,1.0,2.0,2.0
+No,No,Improve,2.0,5.0,2.0,4.0,0.0
+No,No,Improve,2.0,7.0,2.0,1.0,0.0
+No,No,Improve,1.0,10.0,10.0,7.0,8.0
+No,No,Improve,8.0,7.0,2.0,1.0,6.0
+No,No,Improve,8.0,6.0,4.0,1.0,0.0
+No,No,Improve,1.0,5.0,9.0,6.0,1.0
+Yes,No,Improve,1.0,7.0,5.0,7.0,0.0
+No,No,Improve,8.0,7.0,6.0,7.0,4.0
+No,No,Improve,2.0,0.0,0.0,0.0,0.0
+No,No,No effect,6.0,3.0,5.0,0.0,2.0
+Yes,Yes,Improve,3.0,8.0,8.0,5.0,2.0
+Yes,No,Improve,4.0,8.0,7.0,10.0,6.0
+No,No,Improve,2.0,2.0,4.0,5.0,2.0
+Yes,No,Improve,3.0,7.0,3.0,9.0,2.0
+No,Yes,Improve,4.0,8.0,7.0,4.0,4.0
+No,No,No effect,2.0,0.0,0.0,0.0,5.0
+No,No,Improve,1.0,8.0,6.0,9.0,8.0
+No,No,Improve,1.0,4.0,2.0,3.0,2.0
+Yes,No,Improve,2.0,6.0,4.0,10.0,0.0
+No,No,Improve,7.0,8.0,8.0,10.0,0.0
+No,No,Improve,5.0,5.0,5.0,5.0,5.0
+No,No,No effect,3.0,10.0,8.0,6.0,2.0
+No,No,Improve,1.0,0.0,0.0,7.0,0.0
+Yes,Yes,Improve,6.0,8.0,8.0,10.0,0.0
+No,No,No effect,2.0,8.0,2.0,0.0,0.0
+Yes,Yes,Improve,3.0,7.0,8.0,4.0,10.0
+No,No,Improve,1.5,0.0,2.0,0.0,1.0
+Yes,No,Improve,4.0,3.0,5.0,4.0,0.0
+Yes,No,Improve,2.0,5.0,2.0,3.0,1.0
+No,No,Improve,2.0,6.0,1.0,0.0,0.0
+No,No,Improve,2.0,6.0,3.0,4.0,2.0
+Yes,Yes,Improve,1.0,5.0,6.0,8.0,2.0
+No,No,Improve,3.0,8.0,4.0,7.0,5.0
+No,No,Improve,3.0,1.0,1.0,2.0,3.0
+Yes,No,Improve,2.0,8.0,3.0,1.0,3.0
+No,Yes,Improve,6.0,3.0,3.0,0.0,0.0
+No,No,No effect,3.0,0.0,0.0,0.0,0.0
+No,No,No effect,3.0,5.0,4.0,2.0,0.0
+No,No,Improve,2.0,2.0,4.0,0.0,0.0
+No,No,Improve,2.0,4.0,6.0,0.0,2.0
+No,Yes,Improve,2.0,5.0,7.0,2.0,0.0
+No,No,No effect,3.0,4.0,0.0,7.0,0.0
+No,No,No effect,4.0,10.0,8.0,6.0,2.0
+Yes,Yes,Improve,2.0,3.0,3.0,1.0,0.0
+Yes,No,Improve,5.0,8.0,7.0,2.0,1.0
+No,No,Improve,2.0,3.0,3.0,0.0,3.0
+No,No,Improve,7.0,10.0,10.0,8.0,10.0
+Yes,No,Improve,3.0,10.0,2.0,7.0,8.0
+Yes,Yes,Improve,3.0,9.0,6.0,8.0,5.0
+No,No,Improve,4.0,6.0,4.0,1.0,6.0
+No,No,Improve,3.0,3.0,4.0,6.0,8.0
+No,No,Improve,1.0,10.0,10.0,10.0,0.0
+No,No,No effect,7.0,4.0,8.0,8.0,4.0
+No,No,Improve,1.0,3.0,0.0,0.0,0.0
+No,No,Improve,4.0,1.0,0.0,0.0,0.0
+No,No,No effect,4.0,5.0,6.0,7.0,7.0
+No,No,Improve,2.0,10.0,8.0,8.0,9.0
+Yes,No,Improve,4.0,3.0,0.0,3.0,4.0
+No,No,No effect,5.0,1.0,0.0,0.0,1.0
+No,No,Improve,6.0,6.0,6.0,0.0,0.0
+No,No,Improve,1.0,4.0,3.0,4.0,0.0
+No,No,Improve,1.0,6.0,4.0,0.0,0.0
+No,No,Worsen,3.0,2.0,6.0,3.0,0.0
+No,No,Improve,1.0,8.0,3.0,3.0,3.0
+No,No,No effect,8.0,8.0,10.0,7.0,3.0
+Yes,No,Improve,1.0,1.0,0.0,0.0,1.0
+Yes,Yes,Improve,8.0,8.0,6.0,6.0,8.0
+No,No,Improve,1.0,6.0,3.0,1.0,7.0
+Yes,No,Improve,1.0,2.0,0.0,3.0,0.0
+Yes,Yes,No effect,10.0,0.0,0.0,0.0,0.0
+Yes,Yes,Improve,10.0,10.0,10.0,6.0,6.0
+No,No,Improve,5.0,3.0,0.0,0.0,1.0
+No,No,Improve,10.0,7.0,9.0,10.0,0.0
+Yes,No,Improve,2.0,8.0,7.0,6.0,2.0
+No,No,Improve,6.0,2.0,0.0,10.0,10.0
+No,No,No effect,2.0,10.0,7.0,9.0,3.0
+No,No,Improve,3.0,6.0,0.0,0.0,0.0
+Yes,Yes,Improve,8.0,3.0,0.0,2.0,2.0
+No,No,Improve,8.0,6.0,5.0,9.0,8.0
+No,No,Improve,8.0,7.0,6.0,5.0,8.0
+Yes,No,Improve,8.0,10.0,7.0,8.0,6.0
+Yes,No,No effect,12.0,0.0,3.0,9.0,5.0
+No,No,Improve,6.0,0.0,2.0,1.0,5.0
+Yes,No,No effect,4.0,2.0,0.0,0.0,0.0
+No,No,No effect,8.0,2.0,2.0,4.0,0.0
+No,No,No effect,2.0,5.0,6.0,3.0,4.0
+No,No,No effect,1.0,0.0,0.0,1.0,0.0
+Yes,No,Improve,2.0,5.0,4.0,3.0,7.0
+Yes,No,Improve,3.0,2.0,7.0,0.0,0.0
+No,No,Improve,1.0,0.0,6.0,0.0,4.0
+No,No,Improve,0.0,0.0,0.0,0.0,0.0
+Yes,Yes,Improve,2.0,7.0,5.0,1.0,3.0
+Yes,No,No effect,0.1,7.0,5.0,3.0,1.0
+No,No,No effect,2.0,3.0,3.0,1.0,8.0
+No,No,Worsen,12.0,7.0,10.0,4.0,7.0
+No,No,Improve,1.0,3.0,2.0,3.0,0.0
+No,No,Improve,1.0,5.0,1.0,1.0,9.0
+No,No,Improve,3.0,8.0,9.0,4.0,10.0
+No,No,Improve,2.0,4.0,8.0,0.0,0.0
+No,No,Improve,2.0,7.0,9.0,7.0,0.0
+Yes,No,No effect,3.0,1.0,5.0,6.0,4.0
+No,No,No effect,1.0,3.0,2.0,1.0,0.0
+Yes,Yes,Improve,3.0,6.0,8.0,0.0,0.0
+No,No,Improve,3.0,6.0,3.0,6.0,0.0
+Yes,Yes,Improve,5.0,7.0,4.0,8.0,0.0
+No,No,No effect,8.0,2.0,6.0,9.0,1.0
+No,No,Improve,4.0,8.0,5.0,3.0,8.0
+No,Yes,Improve,5.0,3.0,3.0,0.0,0.0
+No,No,Improve,3.0,7.0,5.0,3.0,3.0
+No,No,Improve,4.0,4.0,8.0,2.0,3.0
+Yes,No,Improve,1.0,3.0,0.0,0.0,5.0
+No,No,Improve,4.0,10.0,7.0,3.0,2.0
+No,No,Improve,1.0,10.0,4.0,8.0,0.0
+Yes,No,Improve,2.0,2.0,2.0,0.0,0.0
+No,No,Improve,6.0,8.0,7.0,7.0,3.0
+No,No,Improve,2.0,10.0,5.0,2.0,8.0
+No,No,No effect,1.0,9.0,10.0,10.0,6.0
+Yes,No,Improve,4.0,5.0,2.0,1.0,6.0
+Yes,Yes,Improve,8.0,4.0,8.0,9.0,1.0
+No,No,Improve,2.0,7.0,8.0,5.0,3.0
+No,No,No effect,2.0,2.0,2.0,0.0,3.0
+No,Yes,Improve,10.0,10.0,3.0,0.0,4.0
+No,No,Improve,0.0,10.0,10.0,10.0,9.0
+No,No,No effect,6.0,3.0,7.0,7.0,4.0
+No,No,Improve,3.0,7.0,5.0,7.0,7.0
+No,No,Improve,2.0,7.0,4.0,8.0,8.0
+Yes,No,Improve,0.25,7.0,9.0,4.0,5.0
+No,No,Improve,4.0,4.0,7.0,1.0,3.0
+No,No,Improve,2.0,5.0,9.0,9.0,6.0
+No,No,No effect,2.0,5.0,4.0,10.0,7.0
+No,No,Improve,3.0,7.0,2.0,0.0,1.0
+No,No,Improve,6.0,8.0,6.0,0.0,2.0
+No,No,No effect,3.0,1.0,3.0,10.0,0.0
+No,No,Worsen,2.0,8.0,10.0,10.0,2.0
+Yes,No,No effect,5.0,4.0,7.0,6.0,0.0
+No,No,No effect,4.0,9.0,6.0,3.0,0.0
+No,No,Improve,4.0,10.0,7.0,4.0,4.0
+No,No,No effect,0.0,1.0,2.0,2.0,0.0
+Yes,Yes,Improve,12.0,7.0,10.0,0.0,8.0
+No,No,Worsen,0.5,10.0,2.0,1.0,10.0
+No,No,Improve,1.0,2.0,1.0,2.0,2.0
+No,No,No effect,3.0,3.0,10.0,0.0,0.0
+No,No,Improve,12.0,7.0,10.0,2.0,0.0
+Yes,Yes,Improve,4.0,4.0,2.0,0.0,0.0
+No,No,Improve,3.0,4.0,2.0,5.0,3.0
+No,No,Improve,1.0,6.0,8.0,7.0,0.0
+No,No,Improve,4.0,8.0,6.0,4.0,0.0
+Yes,Yes,No effect,2.0,2.0,2.0,0.0,0.0
+No,No,Improve,3.0,8.0,7.0,9.0,3.0
+Yes,No,No effect,3.0,4.0,3.0,5.0,0.0
+No,No,No effect,1.0,6.0,1.0,0.0,4.0
+No,No,Improve,2.0,6.0,6.0,3.0,6.0
+No,No,No effect,1.0,8.0,7.0,1.0,1.0
+No,No,Improve,0.5,5.0,3.0,4.0,1.0
+No,No,Improve,2.0,6.0,2.0,4.0,3.0
+Yes,Yes,Improve,11.0,5.0,6.0,6.0,0.0
+Yes,Yes,Improve,10.0,6.0,10.0,8.0,1.0
+Yes,No,Improve,5.0,7.0,3.0,9.0,7.0
+Yes,No,No effect,1.5,4.0,6.0,0.0,0.0
+No,No,Improve,2.0,9.0,4.0,0.0,1.0
+No,No,Improve,3.0,9.0,7.0,7.0,5.0
+No,Yes,No effect,2.0,5.0,10.0,2.0,7.0
+No,No,Improve,3.0,1.0,0.0,1.0,0.0
+No,No,Improve,4.0,8.0,7.0,2.0,6.0
+No,No,Improve,1.0,5.0,1.0,4.0,0.0
+Yes,No,Improve,5.0,10.0,6.0,0.0,0.0
+No,No,Improve,2.0,7.0,5.0,5.0,5.0
+No,No,Improve,7.0,3.0,1.0,0.0,3.0
+No,No,Improve,2.0,5.0,8.0,7.0,4.0
+No,No,No effect,1.0,2.0,0.0,0.0,5.0
+Yes,No,No effect,1.0,7.0,0.0,0.0,0.0
+No,No,No effect,4.0,8.0,0.0,0.0,2.0
+No,No,Improve,6.0,4.0,1.0,1.0,0.0
+No,No,Improve,3.0,3.0,8.0,0.0,2.0
+No,No,Improve,4.0,7.0,0.0,2.0,2.0
+No,No,Improve,4.0,10.0,8.0,10.0,0.0
+Yes,Yes,Improve,1.0,7.0,1.0,1.0,1.0
+Yes,No,No effect,2.0,5.0,9.0,1.0,7.0
+Yes,Yes,No effect,24.0,0.0,0.0,0.0,0.0
+Yes,Yes,Improve,5.0,10.0,6.0,3.0,8.0
+Yes,No,Improve,3.0,7.0,3.5,3.5,5.5
+Yes,Yes,Improve,4.0,2.0,0.0,0.0,2.0
+No,No,Improve,9.0,10.0,10.0,10.0,8.0
+No,No,Worsen,1.0,8.0,9.0,6.0,5.0
+Yes,No,Improve,1.0,9.0,7.0,8.0,4.0
+No,No,Improve,2.0,6.0,4.0,5.0,0.0
+No,No,Improve,1.5,8.0,5.0,9.0,4.0
+Yes,No,Improve,2.0,3.0,7.0,0.0,0.0
+Yes,No,Improve,4.0,9.0,1.0,0.0,9.0
+Yes,No,Improve,1.0,8.0,6.0,1.0,4.0
+No,No,Improve,1.0,4.0,1.0,1.0,6.0
+No,No,No effect,3.0,6.0,5.0,3.0,1.0
+Yes,Yes,Improve,4.0,7.0,8.0,6.0,5.0
+Yes,Yes,Improve,8.0,8.0,9.0,5.0,10.0
+No,No,Improve,5.0,8.0,6.0,7.0,0.0
+No,No,Improve,3.0,10.0,5.0,2.0,0.0
+No,No,No effect,8.0,5.0,2.0,4.0,7.0
+No,No,No effect,1.0,9.0,3.0,2.0,0.0
+Yes,Yes,Improve,4.0,4.0,6.0,3.0,4.0
+No,No,Improve,1.0,9.0,8.0,4.0,0.0
+No,No,No effect,2.0,5.0,7.0,10.0,2.0
+Yes,No,No effect,1.0,8.0,3.0,9.0,2.0
+No,No,Improve,3.0,10.0,10.0,6.0,8.0
+No,No,Improve,5.0,7.0,7.0,5.0,5.0
+Yes,No,Improve,5.0,10.0,8.0,1.0,0.0
+No,No,Improve,4.0,8.0,6.0,2.0,0.0
+No,No,Improve,6.0,10.0,7.0,6.0,10.0
+No,No,Improve,6.0,6.0,6.0,8.0,0.0
+No,No,Worsen,1.0,10.0,10.0,8.0,4.0
+No,No,Improve,18.0,9.0,8.0,5.0,10.0
+No,No,No effect,1.0,0.0,0.0,0.0,0.0
+Yes,No,Improve,7.0,7.0,3.0,1.0,2.0
+No,No,Improve,0.5,6.0,2.0,2.0,0.0
+No,No,Improve,2.0,7.0,6.0,4.0,6.0
+Yes,No,Improve,2.0,7.0,6.0,0.0,9.0
+Yes,No,Improve,1.0,3.0,2.0,2.0,5.0
+No,Yes,Improve,6.0,2.0,2.0,2.0,2.0
+Yes,No,Improve,5.0,2.0,3.0,2.0,1.0
+No,No,Improve,2.0,2.0,2.0,2.0,5.0
